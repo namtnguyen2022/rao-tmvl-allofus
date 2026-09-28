@@ -10,4 +10,3 @@ db-dtypes
 pyarrow
 ipykernel
 jupyterlab
-

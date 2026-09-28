@@ -46,4 +46,4 @@ Participant-level data, internal audit outputs, executed notebooks/HTML, generat
 
 ## Distributed definition checksum
 
-The count-free `definitions/procedure_concepts.csv` has SHA-256 `d8b020cdf3ee83d89fa342d4dda39426f804de4469c674089031db41cbea2e3b`. Runtime MD5 values will differ from the original count-bearing file. The retained rows and inclusion decisions are unchanged.
+The count-free `definitions/procedure_concepts.csv` has SHA-256 `75c9e70da20c1a61c92afcb5f19f4d48803efd9b33def4fe955e099fc2130923`. Runtime MD5 values will differ from the original count-bearing file. The retained rows and inclusion decisions are unchanged.

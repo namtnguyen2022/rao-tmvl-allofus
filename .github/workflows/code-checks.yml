@@ -14,4 +14,3 @@ jobs:
         run: python scripts/check_repository.py
       - name: Test publication guard with synthetic examples
         run: python scripts/test_publication_guard.py
-
