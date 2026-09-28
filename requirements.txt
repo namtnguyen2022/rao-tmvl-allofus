@@ -1,0 +1,13 @@
+# Required Python packages, not a locked historical execution environment.
+# Prefer the approved Workbench environment. Record versions for each new run.
+numpy
+pandas
+scipy
+statsmodels
+google-cloud-bigquery
+google-cloud-bigquery-storage
+db-dtypes
+pyarrow
+ipykernel
+jupyterlab
+

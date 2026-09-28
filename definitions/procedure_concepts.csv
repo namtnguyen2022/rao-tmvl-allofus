@@ -1,0 +1,141 @@
+concept_id,concept_name,vocabulary_id,concept_code,test,include,review_note
+2211327,"Computed tomography, head or brain; without contrast material",CPT4,70450,brain,True,
+2211353,"Magnetic resonance (eg, proton) imaging, brain (including brain stem); without contrast material, followed by contrast material(s) and further sequences",CPT4,70553,brain,True,
+2211351,"Magnetic resonance (eg, proton) imaging, brain (including brain stem); without contrast material",CPT4,70551,brain,True,
+2211339,"Computed tomographic angiography, head, with contrast material(s), including noncontrast images, if performed, and image postprocessing",CPT4,70496,brain,True,
+36713243,Magnetic resonance angiography of head without contrast,SNOMED,437731000119100,brain,True,
+2211345,"Magnetic resonance angiography, head; without contrast material(s)",CPT4,70544,brain,True,
+2211347,"Magnetic resonance angiography, head; without contrast material(s), followed by contrast material(s) and further sequences",CPT4,70546,brain,True,
+2211329,"Computed tomography, head or brain; without contrast material, followed by contrast material(s) and further sections",CPT4,70470,brain,True,
+3025779,CT Head WO contrast,LOINC,30799-1,brain,True,
+2211352,"Magnetic resonance (eg, proton) imaging, brain (including brain stem); with contrast material(s)",CPT4,70552,brain,True,
+36713176,CT of head without contrast,SNOMED,383371000119108,brain,True,
+2211328,"Computed tomography, head or brain; with contrast material(s)",CPT4,70460,brain,True,
+4288538,CT of brain with contrast,SNOMED,396207002,brain,True,
+4082979,MRI of head,SNOMED,241601008,brain,True,
+2789361,Magnetic Resonance Imaging (MRI) of Brain,ICD10PCS,B030ZZZ,brain,True,
+4145739,CT of brain,SNOMED,34227000,brain,True,
+2006956,Magnetic resonance imaging of brain and brain stem,ICD9Proc,88.91,brain,True,
+4105925,MRI of brain and brain stem,SNOMED,29567006,brain,True,
+2211355,"Magnetic resonance imaging, brain, functional MRI; requiring physician or psychologist administration of entire neurofunctional testing",CPT4,70555,brain,False,EXCLUDED: Functional MRI
+2212056,"Positron emission tomography (PET) with concurrently acquired computed tomography (CT) for attenuation correction and anatomical localization imaging; limited area (eg, chest, head/neck)",CPT4,78814,brain,False,"EXCLUDED: PET/CT, limited area"
+2211346,"Magnetic resonance angiography, head; with contrast material(s)",CPT4,70545,brain,True,
+2211342,"Magnetic resonance angiography, head and/or neck, with or without contrast material(s) (Deprecated)",CPT4,70541,brain,True,
+2793067,Computerized Tomography (CT Scan) of Head,ICD10PCS,BW28ZZZ,brain,True,
+2789326,Computerized Tomography (CT Scan) of Brain using Low Osmolar Contrast,ICD10PCS,B0201ZZ,brain,True,
+2793073,Computerized Tomography (CT Scan) of Head and Neck using Other Contrast,ICD10PCS,BW29YZZ,brain,True,
+2792521,Magnetic Resonance Imaging (MRI) of Head/Neck Subcutaneous Tissue using Other Contrast,ICD10PCS,BH3DYZZ,brain,False,EXCLUDED: MRI of head/neck subcutaneous tissue
+2793074,Computerized Tomography (CT Scan) of Head and Neck,ICD10PCS,BW29ZZZ,brain,True,
+2789329,Computerized Tomography (CT Scan) of Brain,ICD10PCS,B020ZZZ,brain,True,
+2789359,"Magnetic Resonance Imaging (MRI) of Brain using Other Contrast, Unenhanced and Enhanced",ICD10PCS,B030Y0Z,brain,True,
+2789360,Magnetic Resonance Imaging (MRI) of Brain using Other Contrast,ICD10PCS,B030YZZ,brain,True,
+2793095,"Magnetic Resonance Imaging (MRI) of Head using Other Contrast, Unenhanced and Enhanced",ICD10PCS,BW38Y0Z,brain,True,
+2789325,"Computerized Tomography (CT Scan) of Brain using Low Osmolar Contrast, Unenhanced and Enhanced",ICD10PCS,B02010Z,brain,True,
+3049271,CT Head limited WO contrast,LOINC,36104-8,brain,True,
+3003187,CT Head WO and W contrast IV,LOINC,24726-2,brain,True,
+36305291,CT Head W contrast IV and CT angiogram Head and neck vessels W contrast IV,LOINC,88327-2,brain,True,
+3004287,CT Head,LOINC,24725-4,brain,True,
+3002086,CT Head W contrast IV,LOINC,24727-0,brain,True,
+3036962,CT perfusion Head WO and W contrast IV,LOINC,24729-6,brain,True,
+42528951,CT Head WO and W contrast IV and CT Neck W contrast IV,LOINC,82804-6,brain,True,
+42529468,CT Head and Maxillofacial region WO contrast,LOINC,83306-1,brain,True,
+46272801,CT of head with contrast,SNOMED,711232001,brain,True,
+4236309,Magnetic resonance imaging of brain abnormal,SNOMED,407669000,brain,False,"EXCLUDED: finding, does not establish that/when a test was performed"
+37311324,MRI of brain,SNOMED,816077007,brain,True,
+4125350,CT of head,SNOMED,303653007,brain,True,
+45765481,CT angiography of head and neck with contrast,SNOMED,702430003,brain,True,
+36713289,CT angiography of head with contrast,SNOMED,582101000119108,brain,True,
+37016146,MRI of head abnormal,SNOMED,116131000119107,brain,False,"EXCLUDED: finding, does not establish that/when a test was performed"
+4198764,CT of brain perfusion,SNOMED,433111008,brain,True,
+4236310,Computed tomography of brain abnormal,SNOMED,407670004,brain,False,"EXCLUDED: finding, does not establish that/when a test was performed"
+36713060,Single photon emission computed tomography of brain,SNOMED,16548951000119100,brain,False,EXCLUDED: SPECT of brain
+45765683,Magnetic resonance angiography of head with contrast,SNOMED,702684006,brain,True,
+4324344,CT of head and neck,SNOMED,429858000,brain,True,
+36717294,MRI of brain with contrast,SNOMED,16327691000119101,brain,True,
+36713262,MRI of brain without contrast,SNOMED,489801000119103,brain,True,
+45765717,MRI of head and neck,SNOMED,702725003,brain,True,
+2313975,Duplex scan of extracranial arteries; complete bilateral study,CPT4,93880,carotid,True,
+2211340,"Computed tomographic angiography, neck, with contrast material(s), including noncontrast images, if performed, and image postprocessing",CPT4,70498,carotid,True,
+2211350,"Magnetic resonance angiography, neck; without contrast material(s), followed by contrast material(s) and further sequences",CPT4,70549,carotid,True,
+36713033,Magnetic resonance angiography of neck without contrast,SNOMED,16321761000119108,carotid,True,
+2211348,"Magnetic resonance angiography, neck; without contrast material(s)",CPT4,70547,carotid,True,
+2211349,"Magnetic resonance angiography, neck; with contrast material(s)",CPT4,70548,carotid,True,
+2313976,Duplex scan of extracranial arteries; unilateral or limited study,CPT4,93882,carotid,True,
+43527925,"Selective catheter placement, internal carotid artery, unilateral, with angiography of the ipsilateral intracranial carotid circulation and all associated radiological supervision and interpretation, includes angiography of the extracranial carotid and ce",CPT4,36224,carotid,True,
+43527907,"Selective catheter placement, common carotid or innominate artery, unilateral, any approach, with angiography of the ipsilateral intracranial carotid circulation and all associated radiological supervision and interpretation, includes angiography of the e",CPT4,36223,carotid,True,
+2313974,"Noninvasive physiologic studies of extracranial arteries, complete bilateral study (eg, periorbital flow direction with arterial compression, ocular pneumoplethysmography, Doppler ultrasound spectral analysis)",CPT4,93875,carotid,False,"EXCLUDED: Indirect physiologic study (e.g., oculoplethysmography), not vessel imaging"
+43527928,"Selective catheter placement, external carotid artery, unilateral, with angiography of the ipsilateral external carotid circulation and all associated radiological supervision and interpretation (List separately in addition to code for primary procedure)",CPT4,36227,carotid,False,EXCLUDED: External carotid angiography add-on (not the internal carotid)
+43527924,"Non-selective catheter placement, thoracic aorta, with angiography of the extracranial carotid, vertebral, and/or intracranial vessels, unilateral or bilateral, and all associated radiological supervision and interpretation, includes angiography of the ce",CPT4,36221,carotid,True,
+2211342,"Magnetic resonance angiography, head and/or neck, with or without contrast material(s) (Deprecated)",CPT4,70541,carotid,True,
+43527906,"Selective catheter placement, common carotid or innominate artery, unilateral, any approach, with angiography of the ipsilateral extracranial carotid circulation and all associated radiological supervision and interpretation, includes angiography of the c",CPT4,36222,carotid,True,
+43527929,"Selective catheter placement, each intracranial branch of the internal carotid or vertebral arteries, unilateral, with angiography of the selected vessel circulation and all associated radiological supervision and interpretation (eg, middle cerebral arter",CPT4,36228,carotid,False,EXCLUDED: Intracranial branch angiography add-on (not neck vessels)
+2727085,"Bypass Left Subclavian Artery to Left Extracranial Artery with Synthetic Substitute, Open Approach",ICD10PCS,03140JK,carotid,False,"EXCLUDED: Bypass surgery, not imaging"
+45765485,CT angiography of vascular structure of neck with contrast,SNOMED,702435008,carotid,True,
+45765481,CT angiography of head and neck with contrast,SNOMED,702430003,carotid,True,
+2313869,"Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, complete, with spectral Doppler echocardiography, and with color flow Doppler echocardiography",CPT4,93306,echo,True,
+2313879,"Doppler echocardiography, pulsed wave and/or continuous wave with spectral display (List separately in addition to codes for echocardiographic imaging); complete",CPT4,93320,echo,True,
+2313881,Doppler echocardiography color flow velocity mapping (List separately in addition to codes for echocardiography),CPT4,93325,echo,True,
+2313871,"Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, follow-up or limited study",CPT4,93308,echo,True,
+2313870,"Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, complete, without spectral or color Doppler echocardiography",CPT4,93307,echo,True,
+2313872,"Echocardiography, transesophageal, real-time with image documentation (2D) (with or without M-mode recording); including probe placement, image acquisition, interpretation and report",CPT4,93312,echo,True,
+2313880,"Doppler echocardiography, pulsed wave and/or continuous wave with spectral display (List separately in addition to codes for echocardiographic imaging); follow-up or limited study (List separately in addition to codes for echocardiographic imaging)",CPT4,93321,echo,True,
+2616271,"Transthoracic echocardiography with contrast, or without contrast followed by with contrast, real-time with image documentation (2d), includes m-mode recording, when performed, complete, with spectral doppler echocardiography, and with color flow doppl...",HCPCS,C8929,echo,True,
+710016,Myocardial strain imaging using speckle tracking-derived assessment of myocardial mechanics (List separately in addition to codes for echocardiography imaging),CPT4,93356,echo,True,
+4230911,Echocardiography,SNOMED,40701008,echo,True,
+2313867,Transthoracic echocardiography for congenital cardiac anomalies; complete,CPT4,93303,echo,True,
+4335825,Transthoracic echocardiography,SNOMED,433236007,echo,True,
+2313942,"Intracardiac echocardiography during therapeutic/diagnostic intervention, including imaging supervision and interpretation (List separately in addition to code for primary procedure)",CPT4,93662,echo,False,"EXCLUDED: Intracardiac echo during an intervention (procedural, not a workup test)"
+2313873,"Echocardiography, transesophageal, real-time with image documentation (2D) (with or without M-mode recording); placement of transesophageal probe only",CPT4,93313,echo,False,EXCLUDED: CPT 93313 is transesophageal probe placement only; does not establish completed imaging
+2313874,"Echocardiography, transesophageal, real-time with image documentation (2D) (with or without M-mode recording); image acquisition, interpretation and report only",CPT4,93314,echo,True,
+1389749,"3D echocardiographic imaging and postprocessing during transesophageal echocardiography, or during transthoracic echocardiography for congenital cardiac anomalies, for the assessment of cardiac structure(s) (eg, cardiac chambers and valves, left atrial ap",CPT4,93319,echo,True,
+2313875,"Transesophageal echocardiography for congenital cardiac anomalies; including probe placement, image acquisition, interpretation and report",CPT4,93315,echo,True,
+2211763,"Doppler echocardiography, fetal, pulsed wave and/or continuous wave with spectral display; complete",CPT4,76827,echo,False,EXCLUDED: Fetal echocardiography
+2313868,Transthoracic echocardiography for congenital cardiac anomalies; follow-up or limited study,CPT4,93304,echo,True,
+2313878,"Echocardiography, transesophageal (TEE) for monitoring purposes, including probe placement, real time 2-dimensional image acquisition and interpretation leading to ongoing (continuous) assessment of (dynamically changing) cardiac pumping function and to t",CPT4,93318,echo,False,EXCLUDED: TEE for intraoperative monitoring
+2313876,Transesophageal echocardiography for congenital cardiac anomalies; placement of transesophageal probe only,CPT4,93316,echo,False,EXCLUDED: CPT 93316 is transesophageal probe placement only; does not establish completed imaging
+2313877,"Transesophageal echocardiography for congenital cardiac anomalies; image acquisition, interpretation and report only",CPT4,93317,echo,True,
+46257454,"Echocardiography, transesophageal (TEE) for guidance of a transcatheter intracardiac or great vessel(s) structural intervention(s) (eg, TAVR, transcatheter pulmonary valve replacement, mitral valve repair, paravalvular regurgitation repair, left atrial ap",CPT4,93355,echo,False,"EXCLUDED: TEE guiding a structural intervention (TAVR, LAA closure)"
+2722250,"Echocardiography, fetal, cardiovascular system, real time with image documentation (2D), with or without M-mode recording",CPT4,76825,echo,False,EXCLUDED: Fetal echocardiography
+759555,"Percutaneous transcatheter implantation of interatrial septal shunt device, including right and left heart catheterization, intracardiac echocardiography, and imaging guidance by the proceduralist, when performed",CPT4,0613T,echo,False,EXCLUDED: Interatrial shunt implantation (procedure)
+2616266,"Transthoracic echocardiography with contrast, or without contrast followed by with contrast, real-time with image documentation (2d), includes m-mode recording, when performed, follow-up or limited study",HCPCS,C8924,echo,True,
+2616267,"Transesophageal echocardiography (tee) with contrast, or without contrast followed by with contrast, real time with image documentation (2d) (with or without m-mode recording); including probe placement, image acquisition, interpretation and report",HCPCS,C8925,echo,True,
+2001543,Intracardiac echocardiography,ICD9Proc,37.28,echo,False,EXCLUDED: Intracardiac echo (procedural)
+4019824,Transesophageal echocardiography,SNOMED,105376000,echo,True,
+4138036,Transluminal intracardiac echocardiography,SNOMED,425789000,echo,False,EXCLUDED: Intracardiac echo (procedural)
+4334807,Contrast echocardiography,SNOMED,433231002,echo,True,
+37206167,Saline contrast echocardiogram,SNOMED,785775005,echo,True,
+4059699,Echocardiogram abnormal,SNOMED,169241000,echo,False,"EXCLUDED: finding, does not establish that/when a test was performed"
+2313831,External electrocardiographic recording up to 48 hours by continuous rhythm recording and storage; review and interpretation by a physician or other qualified health care professional,CPT4,93227,rhythm,True,
+2313829,"External electrocardiographic recording up to 48 hours by continuous rhythm recording and storage; recording (includes connection, recording, and disconnection)",CPT4,93225,rhythm,True,
+759712,External electrocardiographic recording for more than 7 days up to 15 days by continuous rhythm recording and storage; review and interpretation,CPT4,93248,rhythm,True,
+2313828,"External electrocardiographic recording up to 48 hours by continuous rhythm recording and storage; includes recording, scanning analysis with report, review and interpretation by a physician or other qualified health care professional",CPT4,93224,rhythm,True,
+2313830,External electrocardiographic recording up to 48 hours by continuous rhythm recording and storage; scanning analysis with report,CPT4,93226,rhythm,True,
+43527887,External electrocardiographic recording for more than 48 hours up to 21 days by continuous rhythm recording and storage; review and interpretation,CPT4,0298T,rhythm,True,
+2313844,"External patient and, when performed, auto activated electrocardiographic rhythm derived event recording with symptom-related memory loop with remote download capability up to 30 days, 24-hour attended monitoring; review and interpretation by a physician ",CPT4,93272,rhythm,True,
+43527885,External electrocardiographic recording for more than 48 hours up to 21 days by continuous rhythm recording and storage; recording (includes connection and initial recording),CPT4,0296T,rhythm,True,
+759710,External electrocardiographic recording for more than 7 days up to 15 days by continuous rhythm recording and storage; recording (includes connection and initial recording),CPT4,93246,rhythm,True,
+2313841,"External patient and, when performed, auto activated electrocardiographic rhythm derived event recording with symptom-related memory loop with remote download capability up to 30 days, 24-hour attended monitoring; includes transmission, review and interpr",CPT4,93268,rhythm,True,
+2313842,"External patient and, when performed, auto activated electrocardiographic rhythm derived event recording with symptom-related memory loop with remote download capability up to 30 days, 24-hour attended monitoring; recording (includes connection, recording",CPT4,93270,rhythm,True,
+2313865,"Interrogation device evaluation(s), (remote) up to 30 days; subcutaneous cardiac rhythm monitor system, including analysis of recorded heart rhythm data, analysis, review(s) and report(s) by a physician or other qualified health care professional",CPT4,93298,rhythm,False,EXCLUDED: Remote interrogation of an existing loop recorder (not a new test)
+2313833,"External mobile cardiovascular telemetry with electrocardiographic recording, concurrent computerized real time data analysis and greater than 24 hours of accessible ECG data storage (retrievable with query) with ECG triggered and patient selected events ",CPT4,93229,rhythm,True,
+759708,External electrocardiographic recording for more than 48 hours up to 7 days by continuous rhythm recording and storage; review and interpretation,CPT4,93244,rhythm,True,
+759711,External electrocardiographic recording for more than 7 days up to 15 days by continuous rhythm recording and storage; scanning analysis with report,CPT4,93247,rhythm,True,
+759706,External electrocardiographic recording for more than 48 hours up to 7 days by continuous rhythm recording and storage; recording (includes connection and initial recording),CPT4,93242,rhythm,True,
+43527886,External electrocardiographic recording for more than 48 hours up to 21 days by continuous rhythm recording and storage; scanning analysis with report,CPT4,0297T,rhythm,True,
+927086,"Insertion, subcutaneous cardiac rhythm monitor, including programming",CPT4,33285,rhythm,True,
+2313843,"External patient and, when performed, auto activated electrocardiographic rhythm derived event recording with symptom-related memory loop with remote download capability up to 30 days, 24-hour attended monitoring; transmission and analysis",CPT4,93271,rhythm,True,
+2313858,"Interrogation device evaluation (in person) with analysis, review and report by a physician or other qualified health care professional, includes connection, recording and disconnection per patient encounter; subcutaneous cardiac rhythm monitor system, in",CPT4,93291,rhythm,False,EXCLUDED: In-person interrogation of an existing loop recorder (not a new test)
+2107093,Implantation of patient-activated cardiac event recorder,CPT4,33282,rhythm,True,
+759707,External electrocardiographic recording for more than 48 hours up to 7 days by continuous rhythm recording and storage; scanning analysis with report,CPT4,93243,rhythm,True,
+759709,"External electrocardiographic recording for more than 7 days up to 15 days by continuous rhythm recording and storage; includes recording, scanning analysis with report, review and interpretation",CPT4,93245,rhythm,True,
+927087,"Removal, subcutaneous cardiac rhythm monitor",CPT4,33286,rhythm,False,EXCLUDED: Removal of loop recorder
+2107094,"Removal of an implantable, patient-activated cardiac event recorder",CPT4,33284,rhythm,False,EXCLUDED: Removal of event recorder
+2313832,"External mobile cardiovascular telemetry with electrocardiographic recording, concurrent computerized real time data analysis and greater than 24 hours of accessible ECG data storage (retrievable with query) with ECG triggered and patient selected events ",CPT4,93228,rhythm,True,
+2313866,"Interrogation device evaluation(s), (remote) up to 30 days; implantable cardiovascular physiologic monitor system or subcutaneous cardiac rhythm monitor system, remote data acquisition(s), receipt of transmissions and technician review, technical support ",CPT4,93299,rhythm,False,EXCLUDED: Remote interrogation of an existing monitor (not a new test)
+43527884,"External electrocardiographic recording for more than 48 hours up to 21 days by continuous rhythm recording and storage; includes recording, scanning analysis with report, review and interpretation",CPT4,0295T,rhythm,True,
+40217340,"Interrogation device evaluation(s), (remote) up to 30 days; implantable cardiovascular physiologic monitor system, implantable loop recorder system, or subcutaneous cardiac rhythm monitor system, remote data acquisition(s), receipt of tran... (Deprecated)",HCPCS,G2066,rhythm,False,EXCLUDED: Remote interrogation of an existing monitor (not a new test)
+4065278,Ambulatory ECG,SNOMED,164850009,rhythm,True,
+4146297,48 hour ambulatory electrocardiographic monitoring,SNOMED,427446001,rhythm,True,
+4064345,Ambulatory ECG abnormal,SNOMED,164852001,rhythm,False,"EXCLUDED: finding, does not establish that/when a test was performed"
+4047082,Implantation of insertable loop recorder,SNOMED,134367001,rhythm,True,
+36305291,CT Head W contrast IV and CT angiogram Head and neck vessels W contrast IV,LOINC,88327-2,carotid,True,ADDED: includes CT angiogram of head and neck vessels
